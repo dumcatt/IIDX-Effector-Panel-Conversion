@@ -1,4 +1,4 @@
-# SDVX-Panel-Conversion
+# IIDX-Effector-Conversion
 Turn an IIDX Effector Panel into a controller.
 
 Requires 10mm thick wood and a way to cut it.
