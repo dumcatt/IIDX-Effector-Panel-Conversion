@@ -42,10 +42,10 @@ Requires 10mm thick wood and a way to cut it.
 |Blue|4|         2        |
 |Purple|5|        3          |
 |Yellow|6|        GND          |
-|Brown|2|          4        |
-|Green|3|         5        |
-|Blue|4|         6        |
-|Purple|5|        7          |
+|Brown|7|          4        |
+|Green|8|         5        |
+|Blue|9|         6        |
+|Purple|10|        7          |
 
 For hooking up the ticker, check out [iidx-twinkIO](https://github.com/KokoseiJ/iidx-twinkIO).
 
